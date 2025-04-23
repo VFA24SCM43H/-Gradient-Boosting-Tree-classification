@@ -130,7 +130,7 @@ The model was tested using several approaches:
 
 The test results demonstrate:
 
-- Consistent accuracy scores above 70% across different datasets
+- Consistent accuracy scores above 90% across different datasets
 - Ability to capture non-linear decision boundaries
 - Good handling of collinear features
 - Expected behavior with parameter changes
